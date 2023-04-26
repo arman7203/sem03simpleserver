@@ -1,4 +1,4 @@
-module example.com/mymodule
+module github.com/arman7203/server
 
 go 1.18
 
